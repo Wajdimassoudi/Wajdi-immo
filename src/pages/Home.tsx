@@ -181,7 +181,7 @@ export default function Home() {
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6">
             {listings.map((listing: any) => (
-              <ListingCard key={listing._id} listing={listing} />
+              <ListingCard key={listing.id} listing={listing} />
             ))}
           </div>
         )}
