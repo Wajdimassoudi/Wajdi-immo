@@ -1,0 +1,16 @@
+{
+  "name": "Wajdi Immo",
+  "description": "Premium Tunisian marketplace for Real Estate and Cars. Modern, fast, and secure.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Real-time marketplace",
+    "Smart listing forms",
+    "Tunisian location system",
+    "Cloudinary image support",
+    "JWT Authentication"
+  ]
+}
